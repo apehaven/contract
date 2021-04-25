@@ -1,33 +1,18 @@
 /**
- *Submitted for verification at BscScan.com on 2021-04-11
+ *Submitted for verification at BscScan.com on 2021-04-18
 */
 
 /**
- *Submitted for verification at BscScan.com on 2021-04-06
-*/
-
-/**
- *
- * $DRAGON - Space Dragon
-
-    Token attributes:
-    - 10,000,000,000 tokens;
-    - 5,000,000,000 tokens for trade - half was released to the “black hole”;
-    - 0% of the tokens were destined to the developers of this contract;
-    Transactions:
-    - Fee 6%
-    - 4% of liquidity fees will be automatically sent back to the liquidity pool.
-    - 2% will be divided among all holders.
-    -
-    
-    Innovation:
-    Our smart contract was developed to avoid whales.
-    No wallet can have more than 1% of all tokens (100,000,000 or 100MI).
-    
-    This system was created to have a more democratic and secure token.
-    People who arrived earlier cannot buy large quantities. Decreasing market fluctuations when someone decides to exit the project.
-    We are pioneers in this system in DeFi tokens.
-
+ * 
+ *                                   
+   Contract features:
+   5% fee auto added to the liquidity pool and locked forever
+   4% fee auto distributed to all holders
+   1% fee sent to charity wallet
+   0.25% token supply limit per transaction
+   0.5% token supply limit per wallet
+   30% Supply is burned at start.
+   
  */
 pragma solidity ^0.6.12;
 // SPDX-License-Identifier: Unlicensed
